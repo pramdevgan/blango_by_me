@@ -38,10 +38,37 @@
                 </ul>
             </details>
             <details>
-                <summary> <a href="">HTML Framework</a></summary>
+                <summary> <a href="https://gist.github.com/pramdevgan/0958623ba4573568fae9aa831b89b58b">HTML Framework</a></summary>
+                <ul>
+                    <li><a href="https://gist.github.com/pramdevgan/ecdc3e6c9acd63eedf07bce8d5078087">Introduction</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/96705d3e908fa55a0da13568856bc008">Bootstrap Setup</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/5d733c9a39eea155ca4af95c999b2292">Bootstrap Components 1</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/b128396ee605b5e03338960499e78aaa">Bootstrap Components 2</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/030e64ad5339a58c40a7ffd821bad4b1">Grid and Container System 1</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/f69fee49e7ced2ac7d5802d7bbcb0232">Grid and Container System 2</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/db5b5a1e960918586b3255ab9bdf53fa">Pushing to GitHub</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/4a3ad17112f1c9e14f9fc612d5bcf1d8">Formative Assessment 1</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/6704d5bd5c1b5e6b50084be48f0ca69f">Formative Assessment 2</a></li>
+                </ul>
             </details>
             <details>
-                <summary> <a href="">Custom Filters</a></summary>
+                <summary> <a href="https://gist.github.com/pramdevgan/28ee7f464a2c009a962cd10aa96b00b2">Custom Filters</a></summary>
+                <h1>Learning Objectives</h1>
+                <ul style="line-height: 18px; list-style-type: square; color: red ">
+                    <li>Use built-in filters in a Django template</li>
+                    <li>Create custom template tags for the posts</li>
+                    <li>Create a custom filter and add it to a template</li>
+                    <li>Render text safe to increase the security of the blog</li>
+                    <li>Pass an argument to a filter</li>
+                </ul>
+                <ul>
+                    <li><a href="https://gist.github.com/pramdevgan/1d00b393517330178959813d0f8ca805">Custom Filters</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/20f8067981d7e415b7171f87b88158b1">Simple Filter</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/d33a48ae2bee7de9104d9e8766b40f6c">Safe Text</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/f5d4bd259494eec4882062ed7e62d7fa">Filters with Arguments</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/91992b43c321253ba81520c07db2c2f9">Formative Assessment 1</a></li>
+                    <li><a href="https://gist.github.com/pramdevgan/7178338a4641b048b68d2999c333c228">Formative Assessment 2</a></li>
+                </ul>
             </details>
             <details>
                 <summary> <a href="">Custom Template Tags</a></summary>
