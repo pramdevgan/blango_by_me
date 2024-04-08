@@ -3,19 +3,21 @@
 {% block content %}
 <h2>{{ post.title }}</h2>
 {% row %}
-    <div class="col">
-        {% include "blog/post-byline.html" %}
-    </div>
+<div class="col">
+    {% include "blog/post-byline.html" %}
+</div>
 {% endrow %}
 {% row %}
-    <div class="col">
-        {{ post.content|safe }}
-    </div>
+<div class="col">
+    {{ post.content|safe }}
+</div>
 {% endrow %}
-{% endblock %}
 
 {% row %}
-    {% col %}
-        {% recent_posts post %}
-    {% endcol %}
+{% col %}
+{% recent_posts post %}
+{% endcol %}
 {% endrow %}
+
+{% include "blog/post-comments.html" %}
+{% endblock %}
